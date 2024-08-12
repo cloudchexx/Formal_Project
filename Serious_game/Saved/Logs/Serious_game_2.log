@@ -1167,3 +1167,24 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.08.12-07.19.57:740][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
 [2024.08.12-07.19.57:743][537]Cmd: MAP CHECKDEP NOCLEARLOG
 [2024.08.12-07.19.57:743][537]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.044毫秒。
+[2024.08.12-07.21.50:005][230]LogDerivedDataCache: C:/Users/Cloudchexx/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.049 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4185 files in 4625 folders with total size 21 MiB.
+[2024.08.12-07.24.47:704][764]LogHttp: Warning: 00000569198F6400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA1F3E5D3-4A97-4AF2-2AF9-C4960077E670%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=f158b5a34b0919d2a58681b261606c7b%7Cf000a5dba4984e0bbfd56a00001b7a68%7C7cd5bdac-f4c0-44da-8eef-158d066a5300&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.08.12-07.24.47:704][764]LogHttp: Warning: 00000569198F6400: request failed, libcurl error: 35 (SSL connect error)
+[2024.08.12-07.24.47:704][764]LogHttp: Warning: 00000569198F6400: libcurl info message cache 0 (Connection 3 seems to be dead)
+[2024.08.12-07.24.47:704][764]LogHttp: Warning: 00000569198F6400: libcurl info message cache 1 (Closing connection)
+[2024.08.12-07.24.47:704][764]LogHttp: Warning: 00000569198F6400: libcurl info message cache 2 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2024.08.12-07.24.47:704][764]LogHttp: Warning: 00000569198F6400: libcurl info message cache 3 (Recv failure: Connection was aborted)
+[2024.08.12-07.24.47:704][764]LogHttp: Warning: 00000569198F6400: libcurl info message cache 4 (Hostname in DNS cache was stale, zapped)
+[2024.08.12-07.24.47:704][764]LogHttp: Warning: 00000569198F6400: libcurl info message cache 5 (  Trying 127.0.0.1:7890...)
+[2024.08.12-07.24.47:704][764]LogHttp: Warning: 00000569198F6400: libcurl info message cache 6 (Connected to 127.0.0.1 (127.0.0.1) port 7890)
+[2024.08.12-07.24.47:704][764]LogHttp: Warning: 00000569198F6400: libcurl info message cache 7 (CONNECT tunnel: HTTP/1.1 negotiated)
+[2024.08.12-07.24.47:704][764]LogHttp: Warning: 00000569198F6400: libcurl info message cache 8 (allocate connect buffer)
+[2024.08.12-07.24.47:704][764]LogHttp: Warning: 00000569198F6400: libcurl info message cache 9 (Establish HTTP proxy tunnel to datarouter.ol.epicgames.com:443)
+[2024.08.12-07.24.47:704][764]LogHttp: Warning: 00000569198F6400: libcurl info message cache 10 (CONNECT phase completed)
+[2024.08.12-07.24.47:704][764]LogHttp: Warning: 00000569198F6400: libcurl info message cache 11 (CONNECT tunnel established, response 200)
+[2024.08.12-07.24.47:704][764]LogHttp: Warning: 00000569198F6400: libcurl info message cache 12 (ALPN: curl offers http/1.1)
+[2024.08.12-07.24.47:704][764]LogHttp: Warning: 00000569198F6400: libcurl info message cache 13 (SSL reusing session ID)
+[2024.08.12-07.24.47:704][764]LogHttp: Warning: 00000569198F6400: libcurl info message cache 14 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.08.12-07.24.47:704][764]LogHttp: Warning: 00000569198F6400: libcurl info message cache 15 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2024.08.12-07.24.47:704][764]LogHttp: Warning: 00000569198F6400: libcurl info message cache 16 (Closing connection)
+[2024.08.12-07.24.47:704][764]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA1F3E5D3-4A97-4AF2-2AF9-C4960077E670%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=f158b5a34b0919d2a58681b261606c7b%7Cf000a5dba4984e0bbfd56a00001b7a68%7C7cd5bdac-f4c0-44da-8eef-158d066a5300&AppEnvironment=datacollector-binary&UploadType=eteventstream

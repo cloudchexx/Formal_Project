@@ -3152,3 +3152,755 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2024.08.18-08.58.47:911][875]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
 [2024.08.18-08.58.47:930][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
 [2024.08.18-08.58.47:996][876]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2024.08.18-09.00.07:972][321]BlueprintLog: New page: 编译BP_Enemy
+[2024.08.18-09.00.08:029][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.08.18-09.00.08:056][321]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.18-09.00.08:113][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprint/BP/BP_Enemy" FILE="../../../../git/Formal_Project/Serious_game/Content/blueprint/BP/BP_Enemy.uasset" SILENT=true
+[2024.08.18-09.00.08:126][321]LogSavePackage: Moving output files for package: /Game/blueprint/BP/BP_Enemy
+[2024.08.18-09.00.08:126][321]LogSavePackage: Moving '../../../../git/Formal_Project/Serious_game/Saved/BP_Enemy6444F2E447813288C39F6BB35DB48EA5.tmp' to '../../../../git/Formal_Project/Serious_game/Content/blueprint/BP/BP_Enemy.uasset'
+[2024.08.18-09.00.08:132][321]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 2.07 sec)
+[2024.08.18-09.00.08:142][321]AssetCheck: New page: 资产保存：BP_Enemy
+[2024.08.18-09.00.08:142][321]LogContentValidation: Display: 正在验证/Script/Engine.Blueprint /Game/blueprint/BP/BP_Enemy.BP_Enemy
+[2024.08.18-09.00.21:973][143]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Data_assets/Enemy_Data_Assets/DA_Enemy.DA_Enemy
+[2024.08.18-09.00.21:973][143]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.18-09.00.21:973][143]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.18-09.00.42:994][399]LogAssetEditorSubsystem: Opening Asset editor for PaperZDAnimBP /Game/blueprint/ABP/ABP_Enemy.ABP_Enemy
+[2024.08.18-09.00.42:994][399]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.18-09.00.42:994][399]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.18-09.00.51:465][903]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.08.18-09.00.51:465][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.18-09.01.02:973][585]LogSlate: Took 0.000399 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.08.18-09.01.25:823][952]BlueprintLog: New page: 编译DA_Enemy
+[2024.08.18-09.01.25:840][952]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.08.18-09.01.25:863][952]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.18-09.01.25:912][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data_assets/Enemy_Data_Assets/DA_Enemy" FILE="../../../../git/Formal_Project/Serious_game/Content/Data_assets/Enemy_Data_Assets/DA_Enemy.uasset" SILENT=true
+[2024.08.18-09.01.25:913][952]LogSavePackage: Moving output files for package: /Game/Data_assets/Enemy_Data_Assets/DA_Enemy
+[2024.08.18-09.01.25:914][952]LogSavePackage: Moving '../../../../git/Formal_Project/Serious_game/Saved/DA_Enemy636C453849C0FCEA03D32CBB3E4C52B4.tmp' to '../../../../git/Formal_Project/Serious_game/Content/Data_assets/Enemy_Data_Assets/DA_Enemy.uasset'
+[2024.08.18-09.01.25:919][952]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 2.13 sec)
+[2024.08.18-09.01.25:920][952]AssetCheck: New page: 资产保存：DA_Enemy
+[2024.08.18-09.01.25:920][952]LogContentValidation: Display: 正在验证/Script/Engine.Blueprint /Game/Data_assets/Enemy_Data_Assets/DA_Enemy.DA_Enemy
+[2024.08.18-09.01.53:266][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.08.18-09.01.53:269][582]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level_map/Map_Test' took 0.014
+[2024.08.18-09.01.53:269][582]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Data_assets/Enemy_Data_Assets/DA_Enemy] ([2] browsable assets)...
+[2024.08.18-09.01.53:269][582]OBJ SavePackage: Finished generating thumbnails for package [/Game/Data_assets/Enemy_Data_Assets/DA_Enemy]
+[2024.08.18-09.01.53:270][582]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Data_assets/Enemy_Data_Assets/DA_Enemy_Auto3
+[2024.08.18-09.01.53:270][582]LogSavePackage: Moving '../../../../git/Formal_Project/Serious_game/Saved/DA_Enemy_Auto3659FEF7C4199B7E4FCCDB6A8B002F7B7.tmp' to '../../../../git/Formal_Project/Serious_game/Saved/Autosaves/Game/Data_assets/Enemy_Data_Assets/DA_Enemy_Auto3.uasset'
+[2024.08.18-09.01.53:271][582]LogFileHelpers: Auto-saving content packages took 0.002
+[2024.08.18-09.02.05:944][341]BlueprintLog: New page: 编译DA_Enemy
+[2024.08.18-09.02.05:958][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.08.18-09.02.05:966][341]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.18-09.02.06:024][341]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data_assets/Enemy_Data_Assets/DA_Enemy" FILE="../../../../git/Formal_Project/Serious_game/Content/Data_assets/Enemy_Data_Assets/DA_Enemy.uasset" SILENT=true
+[2024.08.18-09.02.06:025][341]LogSavePackage: Moving output files for package: /Game/Data_assets/Enemy_Data_Assets/DA_Enemy
+[2024.08.18-09.02.06:025][341]LogSavePackage: Moving '../../../../git/Formal_Project/Serious_game/Saved/DA_EnemyE2347FBD4F649F4E02D71EA2E5E03547.tmp' to '../../../../git/Formal_Project/Serious_game/Content/Data_assets/Enemy_Data_Assets/DA_Enemy.uasset'
+[2024.08.18-09.02.06:029][341]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 2.19 sec)
+[2024.08.18-09.02.06:031][341]AssetCheck: New page: 资产保存：DA_Enemy
+[2024.08.18-09.02.06:031][341]LogContentValidation: Display: 正在验证/Script/Engine.Blueprint /Game/Data_assets/Enemy_Data_Assets/DA_Enemy.DA_Enemy
+[2024.08.18-09.02.10:697][620]LogAssetEditorSubsystem: Opening Asset editor for DA_Enemy_C /Game/Data_assets/Enemy_Data_Assets/DATA_Enemy.DATA_Enemy
+[2024.08.18-09.02.32:451][916]BlueprintLog: New page: 编译DA_Enemy
+[2024.08.18-09.02.32:468][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.08.18-09.02.32:476][916]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.18-09.02.32:526][916]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data_assets/Enemy_Data_Assets/DA_Enemy" FILE="../../../../git/Formal_Project/Serious_game/Content/Data_assets/Enemy_Data_Assets/DA_Enemy.uasset" SILENT=true
+[2024.08.18-09.02.32:527][916]LogSavePackage: Moving output files for package: /Game/Data_assets/Enemy_Data_Assets/DA_Enemy
+[2024.08.18-09.02.32:529][916]LogSavePackage: Moving '../../../../git/Formal_Project/Serious_game/Saved/DA_Enemy1A44441A46B14444238867843BBA97E1.tmp' to '../../../../git/Formal_Project/Serious_game/Content/Data_assets/Enemy_Data_Assets/DA_Enemy.uasset'
+[2024.08.18-09.02.32:532][916]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 2.25 sec)
+[2024.08.18-09.02.32:533][916]AssetCheck: New page: 资产保存：DA_Enemy
+[2024.08.18-09.02.32:533][916]LogContentValidation: Display: 正在验证/Script/Engine.Blueprint /Game/Data_assets/Enemy_Data_Assets/DA_Enemy.DA_Enemy
+[2024.08.18-09.02.36:299][138]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.18-09.02.36:365][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data_assets/Enemy_Data_Assets/DATA_Enemy" FILE="../../../../git/Formal_Project/Serious_game/Content/Data_assets/Enemy_Data_Assets/DATA_Enemy.uasset" SILENT=true
+[2024.08.18-09.02.36:365][138]LogSavePackage: Moving output files for package: /Game/Data_assets/Enemy_Data_Assets/DATA_Enemy
+[2024.08.18-09.02.36:366][138]LogSavePackage: Moving '../../../../git/Formal_Project/Serious_game/Saved/DATA_EnemyF6A27BCE46B8F8355F091FA7D729CD01.tmp' to '../../../../git/Formal_Project/Serious_game/Content/Data_assets/Enemy_Data_Assets/DATA_Enemy.uasset'
+[2024.08.18-09.02.36:370][138]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 2.32 sec)
+[2024.08.18-09.02.36:371][138]AssetCheck: New page: 资产保存：DATA_Enemy
+[2024.08.18-09.02.36:371][138]LogContentValidation: Display: 正在验证/Game/Data_assets/Enemy_Data_Assets/DA_Enemy.DA_Enemy_C /Game/Data_assets/Enemy_Data_Assets/DATA_Enemy.DATA_Enemy
+[2024.08.18-09.02.39:125][303]LogAssetEditorSubsystem: Opening Asset editor for DA_Enemy_C /Game/Data_assets/Enemy_Data_Assets/DATA_Enemy.DATA_Enemy
+[2024.08.18-09.03.34:029][550]BlueprintLog: New page: 编译DA_Enemy
+[2024.08.18-09.03.34:046][550]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.08.18-09.03.34:056][550]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.18-09.03.34:112][550]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data_assets/Enemy_Data_Assets/DA_Enemy" FILE="../../../../git/Formal_Project/Serious_game/Content/Data_assets/Enemy_Data_Assets/DA_Enemy.uasset" SILENT=true
+[2024.08.18-09.03.34:113][550]LogSavePackage: Moving output files for package: /Game/Data_assets/Enemy_Data_Assets/DA_Enemy
+[2024.08.18-09.03.34:114][550]LogSavePackage: Moving '../../../../git/Formal_Project/Serious_game/Saved/DA_Enemy139CD2B349A306813A7DAFBBA02BF27F.tmp' to '../../../../git/Formal_Project/Serious_game/Content/Data_assets/Enemy_Data_Assets/DA_Enemy.uasset'
+[2024.08.18-09.03.34:119][550]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 2.38 sec)
+[2024.08.18-09.03.34:120][550]AssetCheck: New page: 资产保存：DA_Enemy
+[2024.08.18-09.03.34:121][550]LogContentValidation: Display: 正在验证/Script/Engine.Blueprint /Game/Data_assets/Enemy_Data_Assets/DA_Enemy.DA_Enemy
+[2024.08.18-09.04.14:646][981]LogHttp: Warning: 00000A108E2FCD00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B67FB6D7A-4668-0721-DCAF-79A0DB2F6747%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=82e6429c4bb128831a5a0094b4ee4d93%7C321a48c023dc454e97e7b3afba6a06de%7Cb91ab89a-aec4-4123-b560-b4e815f2e0fe&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.08.18-09.04.14:646][981]LogHttp: Warning: 00000A108E2FCD00: request failed, libcurl error: 35 (SSL connect error)
+[2024.08.18-09.04.14:646][981]LogHttp: Warning: 00000A108E2FCD00: libcurl info message cache 0 (Connection 48 seems to be dead)
+[2024.08.18-09.04.14:646][981]LogHttp: Warning: 00000A108E2FCD00: libcurl info message cache 1 (Closing connection)
+[2024.08.18-09.04.14:646][981]LogHttp: Warning: 00000A108E2FCD00: libcurl info message cache 2 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2024.08.18-09.04.14:646][981]LogHttp: Warning: 00000A108E2FCD00: libcurl info message cache 3 (Recv failure: Connection was aborted)
+[2024.08.18-09.04.14:646][981]LogHttp: Warning: 00000A108E2FCD00: libcurl info message cache 4 (Hostname in DNS cache was stale, zapped)
+[2024.08.18-09.04.14:646][981]LogHttp: Warning: 00000A108E2FCD00: libcurl info message cache 5 (  Trying 127.0.0.1:7890...)
+[2024.08.18-09.04.14:646][981]LogHttp: Warning: 00000A108E2FCD00: libcurl info message cache 6 (Connected to 127.0.0.1 (127.0.0.1) port 7890)
+[2024.08.18-09.04.14:646][981]LogHttp: Warning: 00000A108E2FCD00: libcurl info message cache 7 (CONNECT tunnel: HTTP/1.1 negotiated)
+[2024.08.18-09.04.14:646][981]LogHttp: Warning: 00000A108E2FCD00: libcurl info message cache 8 (allocate connect buffer)
+[2024.08.18-09.04.14:646][981]LogHttp: Warning: 00000A108E2FCD00: libcurl info message cache 9 (Establish HTTP proxy tunnel to datarouter.ol.epicgames.com:443)
+[2024.08.18-09.04.14:646][981]LogHttp: Warning: 00000A108E2FCD00: libcurl info message cache 10 (CONNECT phase completed)
+[2024.08.18-09.04.14:646][981]LogHttp: Warning: 00000A108E2FCD00: libcurl info message cache 11 (CONNECT tunnel established, response 200)
+[2024.08.18-09.04.14:646][981]LogHttp: Warning: 00000A108E2FCD00: libcurl info message cache 12 (ALPN: curl offers http/1.1)
+[2024.08.18-09.04.14:646][981]LogHttp: Warning: 00000A108E2FCD00: libcurl info message cache 13 (SSL reusing session ID)
+[2024.08.18-09.04.14:646][981]LogHttp: Warning: 00000A108E2FCD00: libcurl info message cache 14 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.08.18-09.04.14:646][981]LogHttp: Warning: 00000A108E2FCD00: libcurl info message cache 15 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2024.08.18-09.04.14:646][981]LogHttp: Warning: 00000A108E2FCD00: libcurl info message cache 16 (Closing connection)
+[2024.08.18-09.04.14:646][981]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B67FB6D7A-4668-0721-DCAF-79A0DB2F6747%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=82e6429c4bb128831a5a0094b4ee4d93%7C321a48c023dc454e97e7b3afba6a06de%7Cb91ab89a-aec4-4123-b560-b4e815f2e0fe&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.08.18-09.04.57:108][525]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.18-09.04.57:159][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data_assets/Enemy_Data_Assets/DATA_Enemy" FILE="../../../../git/Formal_Project/Serious_game/Content/Data_assets/Enemy_Data_Assets/DATA_Enemy.uasset" SILENT=true
+[2024.08.18-09.04.57:160][525]LogSavePackage: Moving output files for package: /Game/Data_assets/Enemy_Data_Assets/DATA_Enemy
+[2024.08.18-09.04.57:160][525]LogSavePackage: Moving '../../../../git/Formal_Project/Serious_game/Saved/DATA_Enemy22404D4448E9B0900FB222850A95494C.tmp' to '../../../../git/Formal_Project/Serious_game/Content/Data_assets/Enemy_Data_Assets/DATA_Enemy.uasset'
+[2024.08.18-09.04.57:165][525]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 2.44 sec)
+[2024.08.18-09.04.57:166][525]AssetCheck: New page: 资产保存：DATA_Enemy
+[2024.08.18-09.04.57:166][525]LogContentValidation: Display: 正在验证/Game/Data_assets/Enemy_Data_Assets/DA_Enemy.DA_Enemy_C /Game/Data_assets/Enemy_Data_Assets/DATA_Enemy.DATA_Enemy
+[2024.08.18-09.05.06:843][101]LogContentBrowser: Attempting asset rename: DATA_Enemy -> DA_bugger
+[2024.08.18-09.05.06:885][101]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.18-09.05.06:935][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprint/BP/BP_Enemy" FILE="../../../../git/Formal_Project/Serious_game/Content/blueprint/BP/BP_Enemy.uasset" SILENT=true
+[2024.08.18-09.05.06:949][101]LogSavePackage: Moving output files for package: /Game/blueprint/BP/BP_Enemy
+[2024.08.18-09.05.06:950][101]LogSavePackage: Moving '../../../../git/Formal_Project/Serious_game/Saved/BP_EnemyE1C1901B462275100E7FBF983BF7A245.tmp' to '../../../../git/Formal_Project/Serious_game/Content/blueprint/BP/BP_Enemy.uasset'
+[2024.08.18-09.05.06:950][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data_assets/Enemy_Data_Assets/DA_bugger" FILE="../../../../git/Formal_Project/Serious_game/Content/Data_assets/Enemy_Data_Assets/DA_bugger.uasset" SILENT=true
+[2024.08.18-09.05.06:951][101]LogSavePackage: Moving output files for package: /Game/Data_assets/Enemy_Data_Assets/DA_bugger
+[2024.08.18-09.05.06:951][101]LogSavePackage: Moving '../../../../git/Formal_Project/Serious_game/Saved/DA_buggerC09F3D1D40D7E40834721FB6DF2F5020.tmp' to '../../../../git/Formal_Project/Serious_game/Content/Data_assets/Enemy_Data_Assets/DA_bugger.uasset'
+[2024.08.18-09.05.06:961][101]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 2.51 sec)
+[2024.08.18-09.05.06:973][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.08.18-09.05.06:985][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.08.18-09.05.06:995][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.08.18-09.05.06:997][101]AssetCheck: New page: 资产保存：多个资产
+[2024.08.18-09.05.06:997][101]LogContentValidation: Display: 正在验证/Script/Engine.Blueprint /Game/blueprint/BP/BP_Enemy.BP_Enemy
+[2024.08.18-09.05.06:997][101]LogContentValidation: Display: 正在验证/Game/Data_assets/Enemy_Data_Assets/DA_Enemy.DA_Enemy_C /Game/Data_assets/Enemy_Data_Assets/DA_bugger.DA_bugger
+[2024.08.18-09.05.08:982][216]LogContentBrowser: Deferred new asset file creation: DA_bugger1
+[2024.08.18-09.05.08:993][216]LogContentBrowser: Creating deferred item: DA_bugger1
+[2024.08.18-09.05.09:000][217]LogContentBrowser: Renaming the item being created (Deferred Item: DA_bugger1).
+[2024.08.18-09.05.17:683][737]LogContentBrowser: Attempting asset rename: DA_bugger1 -> DA_bamboo
+[2024.08.18-09.05.17:684][737]LogContentBrowser: End creating deferred item DA_bugger1
+[2024.08.18-09.05.18:421][781]LogAssetEditorSubsystem: Opening Asset editor for DA_Enemy_C /Game/Data_assets/Enemy_Data_Assets/DA_bamboo.DA_bamboo
+[2024.08.18-09.05.21:100][938]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.18-09.05.21:146][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data_assets/Enemy_Data_Assets/DA_bamboo" FILE="../../../../git/Formal_Project/Serious_game/Content/Data_assets/Enemy_Data_Assets/DA_bamboo.uasset" SILENT=true
+[2024.08.18-09.05.21:146][938]LogSavePackage: Moving output files for package: /Game/Data_assets/Enemy_Data_Assets/DA_bamboo
+[2024.08.18-09.05.21:146][938]LogSavePackage: Moving '../../../../git/Formal_Project/Serious_game/Saved/DA_bamboo83F74AC24910FB74EA94998155C9DD36.tmp' to '../../../../git/Formal_Project/Serious_game/Content/Data_assets/Enemy_Data_Assets/DA_bamboo.uasset'
+[2024.08.18-09.05.21:152][938]LogFileHelpers: InternalPromptForCheckoutAndSave took 52 ms (total: 2.57 sec)
+[2024.08.18-09.05.21:153][938]AssetCheck: New page: 资产保存：DA_bamboo
+[2024.08.18-09.05.21:153][938]LogContentValidation: Display: 正在验证/Game/Data_assets/Enemy_Data_Assets/DA_Enemy.DA_Enemy_C /Game/Data_assets/Enemy_Data_Assets/DA_bamboo.DA_bamboo
+[2024.08.18-09.05.23:178][ 57]LogContentBrowser: Deferred new asset file creation: DA_bamboo1
+[2024.08.18-09.05.23:186][ 57]LogContentBrowser: Creating deferred item: DA_bamboo1
+[2024.08.18-09.05.23:196][ 58]LogContentBrowser: Renaming the item being created (Deferred Item: DA_bamboo1).
+[2024.08.18-09.05.31:365][548]LogContentBrowser: Attempting asset rename: DA_bamboo1 -> DA_boss1
+[2024.08.18-09.05.31:365][548]LogContentBrowser: End creating deferred item DA_bamboo1
+[2024.08.18-09.05.31:829][576]LogAssetEditorSubsystem: Opening Asset editor for DA_Enemy_C /Game/Data_assets/Enemy_Data_Assets/DA_boss1.DA_boss1
+[2024.08.18-09.05.35:892][816]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.18-09.05.35:944][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data_assets/Enemy_Data_Assets/DA_boss1" FILE="../../../../git/Formal_Project/Serious_game/Content/Data_assets/Enemy_Data_Assets/DA_boss1.uasset" SILENT=true
+[2024.08.18-09.05.35:945][816]LogSavePackage: Moving output files for package: /Game/Data_assets/Enemy_Data_Assets/DA_boss1
+[2024.08.18-09.05.35:945][816]LogSavePackage: Moving '../../../../git/Formal_Project/Serious_game/Saved/DA_boss1A59682A24BB3E3C0742B92ACFEBFC8FF.tmp' to '../../../../git/Formal_Project/Serious_game/Content/Data_assets/Enemy_Data_Assets/DA_boss1.uasset'
+[2024.08.18-09.05.35:950][816]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 2.62 sec)
+[2024.08.18-09.05.35:950][816]AssetCheck: New page: 资产保存：DA_boss1
+[2024.08.18-09.05.35:950][816]LogContentValidation: Display: 正在验证/Game/Data_assets/Enemy_Data_Assets/DA_Enemy.DA_Enemy_C /Game/Data_assets/Enemy_Data_Assets/DA_boss1.DA_boss1
+[2024.08.18-09.06.14:663][124]LogHttp: Warning: 00000A108C851E00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B67FB6D7A-4668-0721-DCAF-79A0DB2F6747%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=82e6429c4bb128831a5a0094b4ee4d93%7C321a48c023dc454e97e7b3afba6a06de%7Cb91ab89a-aec4-4123-b560-b4e815f2e0fe&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.08.18-09.06.14:663][124]LogHttp: Warning: 00000A108C851E00: request failed, libcurl error: 35 (SSL connect error)
+[2024.08.18-09.06.14:663][124]LogHttp: Warning: 00000A108C851E00: libcurl info message cache 0 (Connection 50 seems to be dead)
+[2024.08.18-09.06.14:663][124]LogHttp: Warning: 00000A108C851E00: libcurl info message cache 1 (Closing connection)
+[2024.08.18-09.06.14:663][124]LogHttp: Warning: 00000A108C851E00: libcurl info message cache 2 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2024.08.18-09.06.14:663][124]LogHttp: Warning: 00000A108C851E00: libcurl info message cache 3 (Recv failure: Connection was aborted)
+[2024.08.18-09.06.14:663][124]LogHttp: Warning: 00000A108C851E00: libcurl info message cache 4 (Hostname in DNS cache was stale, zapped)
+[2024.08.18-09.06.14:664][124]LogHttp: Warning: 00000A108C851E00: libcurl info message cache 5 (  Trying 127.0.0.1:7890...)
+[2024.08.18-09.06.14:664][124]LogHttp: Warning: 00000A108C851E00: libcurl info message cache 6 (Connected to 127.0.0.1 (127.0.0.1) port 7890)
+[2024.08.18-09.06.14:664][124]LogHttp: Warning: 00000A108C851E00: libcurl info message cache 7 (CONNECT tunnel: HTTP/1.1 negotiated)
+[2024.08.18-09.06.14:664][124]LogHttp: Warning: 00000A108C851E00: libcurl info message cache 8 (allocate connect buffer)
+[2024.08.18-09.06.14:664][124]LogHttp: Warning: 00000A108C851E00: libcurl info message cache 9 (Establish HTTP proxy tunnel to datarouter.ol.epicgames.com:443)
+[2024.08.18-09.06.14:664][124]LogHttp: Warning: 00000A108C851E00: libcurl info message cache 10 (CONNECT phase completed)
+[2024.08.18-09.06.14:664][124]LogHttp: Warning: 00000A108C851E00: libcurl info message cache 11 (CONNECT tunnel established, response 200)
+[2024.08.18-09.06.14:664][124]LogHttp: Warning: 00000A108C851E00: libcurl info message cache 12 (ALPN: curl offers http/1.1)
+[2024.08.18-09.06.14:664][124]LogHttp: Warning: 00000A108C851E00: libcurl info message cache 13 (SSL reusing session ID)
+[2024.08.18-09.06.14:664][124]LogHttp: Warning: 00000A108C851E00: libcurl info message cache 14 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.08.18-09.06.14:664][124]LogHttp: Warning: 00000A108C851E00: libcurl info message cache 15 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2024.08.18-09.06.14:664][124]LogHttp: Warning: 00000A108C851E00: libcurl info message cache 16 (Closing connection)
+[2024.08.18-09.06.14:664][124]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B67FB6D7A-4668-0721-DCAF-79A0DB2F6747%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=82e6429c4bb128831a5a0094b4ee4d93%7C321a48c023dc454e97e7b3afba6a06de%7Cb91ab89a-aec4-4123-b560-b4e815f2e0fe&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.08.18-09.06.36:888][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.08.18-09.06.36:890][447]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level_map/Map_Test' took 0.013
+[2024.08.18-09.06.36:891][447]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/blueprint/BP/BP_Enemy] ([2] browsable assets)...
+[2024.08.18-09.06.36:891][447]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint/BP/BP_Enemy]
+[2024.08.18-09.06.36:891][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprint/BP/BP_Enemy" FILE="../../../../git/Formal_Project/Serious_game/Saved/Autosaves/Game/blueprint/BP/BP_Enemy_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2024.08.18-09.06.36:905][447]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/blueprint/BP/BP_Enemy_Auto4
+[2024.08.18-09.06.36:905][447]LogSavePackage: Moving '../../../../git/Formal_Project/Serious_game/Saved/BP_Enemy_Auto49D659C204DC6F2495804DD8D43DB098B.tmp' to '../../../../git/Formal_Project/Serious_game/Saved/Autosaves/Game/blueprint/BP/BP_Enemy_Auto4.uasset'
+[2024.08.18-09.06.36:905][447]LogFileHelpers: Auto-saving content packages took 0.015
+[2024.08.18-09.09.14:646][832]LogHttp: Warning: 00000A1098E99600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B67FB6D7A-4668-0721-DCAF-79A0DB2F6747%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=82e6429c4bb128831a5a0094b4ee4d93%7C321a48c023dc454e97e7b3afba6a06de%7Cb91ab89a-aec4-4123-b560-b4e815f2e0fe&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.08.18-09.09.14:646][832]LogHttp: Warning: 00000A1098E99600: request failed, libcurl error: 35 (SSL connect error)
+[2024.08.18-09.09.14:646][832]LogHttp: Warning: 00000A1098E99600: libcurl info message cache 0 (Connection 53 seems to be dead)
+[2024.08.18-09.09.14:646][832]LogHttp: Warning: 00000A1098E99600: libcurl info message cache 1 (Closing connection)
+[2024.08.18-09.09.14:646][832]LogHttp: Warning: 00000A1098E99600: libcurl info message cache 2 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2024.08.18-09.09.14:646][832]LogHttp: Warning: 00000A1098E99600: libcurl info message cache 3 (Recv failure: Connection was aborted)
+[2024.08.18-09.09.14:646][832]LogHttp: Warning: 00000A1098E99600: libcurl info message cache 4 (Hostname in DNS cache was stale, zapped)
+[2024.08.18-09.09.14:646][832]LogHttp: Warning: 00000A1098E99600: libcurl info message cache 5 (  Trying 127.0.0.1:7890...)
+[2024.08.18-09.09.14:646][832]LogHttp: Warning: 00000A1098E99600: libcurl info message cache 6 (Connected to 127.0.0.1 (127.0.0.1) port 7890)
+[2024.08.18-09.09.14:646][832]LogHttp: Warning: 00000A1098E99600: libcurl info message cache 7 (CONNECT tunnel: HTTP/1.1 negotiated)
+[2024.08.18-09.09.14:646][832]LogHttp: Warning: 00000A1098E99600: libcurl info message cache 8 (allocate connect buffer)
+[2024.08.18-09.09.14:646][832]LogHttp: Warning: 00000A1098E99600: libcurl info message cache 9 (Establish HTTP proxy tunnel to datarouter.ol.epicgames.com:443)
+[2024.08.18-09.09.14:646][832]LogHttp: Warning: 00000A1098E99600: libcurl info message cache 10 (CONNECT phase completed)
+[2024.08.18-09.09.14:646][832]LogHttp: Warning: 00000A1098E99600: libcurl info message cache 11 (CONNECT tunnel established, response 200)
+[2024.08.18-09.09.14:646][832]LogHttp: Warning: 00000A1098E99600: libcurl info message cache 12 (ALPN: curl offers http/1.1)
+[2024.08.18-09.09.14:646][832]LogHttp: Warning: 00000A1098E99600: libcurl info message cache 13 (SSL reusing session ID)
+[2024.08.18-09.09.14:646][832]LogHttp: Warning: 00000A1098E99600: libcurl info message cache 14 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.08.18-09.09.14:646][832]LogHttp: Warning: 00000A1098E99600: libcurl info message cache 15 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2024.08.18-09.09.14:646][832]LogHttp: Warning: 00000A1098E99600: libcurl info message cache 16 (Closing connection)
+[2024.08.18-09.09.14:646][832]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B67FB6D7A-4668-0721-DCAF-79A0DB2F6747%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=82e6429c4bb128831a5a0094b4ee4d93%7C321a48c023dc454e97e7b3afba6a06de%7Cb91ab89a-aec4-4123-b560-b4e815f2e0fe&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.08.18-09.09.56:765][325]BlueprintLog: New page: 编译BP_Enemy
+[2024.08.18-09.09.56:772][325]LogBlueprint: Error: [AssetLog] D:\CodeCoke\git\Formal_Project\Serious_game\Content\blueprint\BP\BP_Enemy.uasset: [Compiler] 此蓝图（自身）并非是一个 ABP_Enemy_C，因此 ' 目标 ’ 必须拥有一个连接。
+[2024.08.18-09.09.56:772][325]LogBlueprint: Error: [AssetLog] D:\CodeCoke\git\Formal_Project\Serious_game\Content\blueprint\BP\BP_Enemy.uasset: [Compiler] 此蓝图（自身）并非是一个 ABP_Enemy_C，因此 ' 目标 ’ 必须拥有一个连接。
+[2024.08.18-09.09.56:772][325]LogBlueprint: Error: [AssetLog] D:\CodeCoke\git\Formal_Project\Serious_game\Content\blueprint\BP\BP_Enemy.uasset: [Compiler] 变量节点 Set Enemy movement animation 使用一个无效的目标。它可能依赖于一个没有连接到执行链上且已被清除的节点。
+[2024.08.18-09.09.56:772][325]LogBlueprint: Error: [AssetLog] D:\CodeCoke\git\Formal_Project\Serious_game\Content\blueprint\BP\BP_Enemy.uasset: [Compiler] 变量节点 Set Enemy movement animation 使用一个无效的目标。它可能依赖于一个没有连接到执行链上且已被清除的节点。
+[2024.08.18-09.09.56:824][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.08.18-09.09.56:853][325]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.18-09.09.56:913][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprint/BP/BP_Enemy" FILE="../../../../git/Formal_Project/Serious_game/Content/blueprint/BP/BP_Enemy.uasset" SILENT=true
+[2024.08.18-09.09.56:926][325]LogSavePackage: Moving output files for package: /Game/blueprint/BP/BP_Enemy
+[2024.08.18-09.09.56:927][325]LogSavePackage: Moving '../../../../git/Formal_Project/Serious_game/Saved/BP_EnemyE7FC8E624389125E5FACA7AB42B1C5FC.tmp' to '../../../../git/Formal_Project/Serious_game/Content/blueprint/BP/BP_Enemy.uasset'
+[2024.08.18-09.09.56:935][325]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 2.71 sec)
+[2024.08.18-09.09.56:949][325]AssetCheck: New page: 资产保存：BP_Enemy
+[2024.08.18-09.09.56:950][325]LogContentValidation: Display: 正在验证/Script/Engine.Blueprint /Game/blueprint/BP/BP_Enemy.BP_Enemy
+[2024.08.18-09.10.06:132][860]BlueprintLog: New page: 编译BP_Enemy
+[2024.08.18-09.10.06:194][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.08.18-09.10.06:211][860]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.18-09.10.06:272][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprint/BP/BP_Enemy" FILE="../../../../git/Formal_Project/Serious_game/Content/blueprint/BP/BP_Enemy.uasset" SILENT=true
+[2024.08.18-09.10.06:286][860]LogSavePackage: Moving output files for package: /Game/blueprint/BP/BP_Enemy
+[2024.08.18-09.10.06:286][860]LogSavePackage: Moving '../../../../git/Formal_Project/Serious_game/Saved/BP_EnemyA5AFF6A446E93F60325CA498C19E8E34.tmp' to '../../../../git/Formal_Project/Serious_game/Content/blueprint/BP/BP_Enemy.uasset'
+[2024.08.18-09.10.06:291][860]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 2.79 sec)
+[2024.08.18-09.10.06:306][860]AssetCheck: New page: 资产保存：BP_Enemy
+[2024.08.18-09.10.06:306][860]LogContentValidation: Display: 正在验证/Script/Engine.Blueprint /Game/blueprint/BP/BP_Enemy.BP_Enemy
+[2024.08.18-09.10.15:696][418]LogHttp: Warning: 00000A109732C800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B67FB6D7A-4668-0721-DCAF-79A0DB2F6747%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=82e6429c4bb128831a5a0094b4ee4d93%7C321a48c023dc454e97e7b3afba6a06de%7Cb91ab89a-aec4-4123-b560-b4e815f2e0fe&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.08.18-09.10.15:696][418]LogHttp: Warning: 00000A109732C800: request failed, libcurl error: 35 (SSL connect error)
+[2024.08.18-09.10.15:696][418]LogHttp: Warning: 00000A109732C800: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2024.08.18-09.10.15:696][418]LogHttp: Warning: 00000A109732C800: libcurl info message cache 1 (  Trying 127.0.0.1:7890...)
+[2024.08.18-09.10.15:696][418]LogHttp: Warning: 00000A109732C800: libcurl info message cache 2 (Connected to 127.0.0.1 (127.0.0.1) port 7890)
+[2024.08.18-09.10.15:696][418]LogHttp: Warning: 00000A109732C800: libcurl info message cache 3 (CONNECT tunnel: HTTP/1.1 negotiated)
+[2024.08.18-09.10.15:696][418]LogHttp: Warning: 00000A109732C800: libcurl info message cache 4 (allocate connect buffer)
+[2024.08.18-09.10.15:696][418]LogHttp: Warning: 00000A109732C800: libcurl info message cache 5 (Establish HTTP proxy tunnel to datarouter.ol.epicgames.com:443)
+[2024.08.18-09.10.15:696][418]LogHttp: Warning: 00000A109732C800: libcurl info message cache 6 (CONNECT phase completed)
+[2024.08.18-09.10.15:696][418]LogHttp: Warning: 00000A109732C800: libcurl info message cache 7 (CONNECT tunnel established, response 200)
+[2024.08.18-09.10.15:696][418]LogHttp: Warning: 00000A109732C800: libcurl info message cache 8 (ALPN: curl offers http/1.1)
+[2024.08.18-09.10.15:696][418]LogHttp: Warning: 00000A109732C800: libcurl info message cache 9 (SSL reusing session ID)
+[2024.08.18-09.10.15:696][418]LogHttp: Warning: 00000A109732C800: libcurl info message cache 10 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.08.18-09.10.15:696][418]LogHttp: Warning: 00000A109732C800: libcurl info message cache 11 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2024.08.18-09.10.15:696][418]LogHttp: Warning: 00000A109732C800: libcurl info message cache 12 (Closing connection)
+[2024.08.18-09.10.15:696][418]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B67FB6D7A-4668-0721-DCAF-79A0DB2F6747%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=82e6429c4bb128831a5a0094b4ee4d93%7C321a48c023dc454e97e7b3afba6a06de%7Cb91ab89a-aec4-4123-b560-b4e815f2e0fe&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.08.18-09.10.18:738][598]BlueprintLog: New page: 编译BP_Enemy
+[2024.08.18-09.10.18:797][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.08.18-09.10.18:813][598]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.18-09.10.18:862][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprint/BP/BP_Enemy" FILE="../../../../git/Formal_Project/Serious_game/Content/blueprint/BP/BP_Enemy.uasset" SILENT=true
+[2024.08.18-09.10.18:876][598]LogSavePackage: Moving output files for package: /Game/blueprint/BP/BP_Enemy
+[2024.08.18-09.10.18:876][598]LogSavePackage: Moving '../../../../git/Formal_Project/Serious_game/Saved/BP_EnemyF29D104341AA91201E67F7BE857363D5.tmp' to '../../../../git/Formal_Project/Serious_game/Content/blueprint/BP/BP_Enemy.uasset'
+[2024.08.18-09.10.18:883][598]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 2.86 sec)
+[2024.08.18-09.10.18:897][598]AssetCheck: New page: 资产保存：BP_Enemy
+[2024.08.18-09.10.18:897][598]LogContentValidation: Display: 正在验证/Script/Engine.Blueprint /Game/blueprint/BP/BP_Enemy.BP_Enemy
+[2024.08.18-09.10.20:367][682]LogDebuggerCommands: Repeating last play command: 新建编辑器窗口（PIE）
+[2024.08.18-09.10.20:372][682]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.08.18-09.10.20:372][682]PIE: New page: PIE会话：Map_Test（2024年8月19日 上午1:10:20）
+[2024.08.18-09.10.20:372][682]LogPlayLevel: Creating play world package: /Game/Level_map/UEDPIE_0_Map_Test
+[2024.08.18-09.10.20:374][682]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002676s)
+[2024.08.18-09.10.20:374][682]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_map/Map_Test.Map_Test to /Game/Level_map/UEDPIE_0_Map_Test.Map_Test (0.002701s)
+[2024.08.18-09.10.20:383][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.08.18-09.10.20:389][682]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.18-09.10.20:389][682]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.18-09.10.20:389][682]LogAIModule: Creating AISystem for world Map_Test
+[2024.08.18-09.10.20:390][682]LogPlayLevel: PIE: World Init took: (0.000925s)
+[2024.08.18-09.10.20:390][682]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2024.08.18-09.10.20:390][682]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.18-09.10.20:390][682]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.18-09.10.20:390][682]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.18-09.10.20:390][682]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.18-09.10.20:390][682]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.08.18-09.10.20:390][682]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.08.18-09.10.20:390][682]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.08.18-09.10.20:390][682]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.18-09.10.20:390][682]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.18-09.10.20:390][682]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.18-09.10.20:390][682]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.18-09.10.20:392][682]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.18-09.10.20:466][682]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (Realtek(R) Audio)
+[2024.08.18-09.10.20:466][682]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.18-09.10.20:466][682]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.18-09.10.20:466][682]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.18-09.10.20:467][682]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2024.08.18-09.10.20:467][682]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2024.08.18-09.10.20:468][682]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2024.08.18-09.10.20:468][682]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2024.08.18-09.10.20:468][682]LogInit: FAudioDevice initialized with ID 24.
+[2024.08.18-09.10.20:468][682]LogAudio: Display: Audio Device (ID: 24) registered with world 'Map_Test'.
+[2024.08.18-09.10.20:468][682]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2024.08.18-09.10.20:649][682]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.18-09.10.20:650][682]LogLoad: Game class is 'Mode_Game_C'
+[2024.08.18-09.10.20:659][682]LogWorld: Bringing World /Game/Level_map/UEDPIE_0_Map_Test.Map_Test up for play (max tick rate 60) at 2024.08.18-17.10.20
+[2024.08.18-09.10.20:659][682]LogWorld: Bringing up level for play took: 0.009076
+[2024.08.18-09.10.20:661][682]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2024.08.18-09.10.20:787][682]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.08.18-09.10.20:790][682]PIE: 登陆的服务器
+[2024.08.18-09.10.20:791][682]PIE: PIE总开始时间：0.419秒。
+[2024.08.18-09.10.20:802][682]LogViewport: Scene viewport resized to 2551x1468, mode Windowed.
+[2024.08.18-09.10.22:788][794]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.18-09.10.22:788][794]LogWorld: BeginTearingDown for /Game/Level_map/UEDPIE_0_Map_Test
+[2024.08.18-09.10.22:788][794]LogSlate: Window 'Serious_game 预览 [NetMode: Standalone 0]  （64-bit/PC D3D SM6）' being destroyed
+[2024.08.18-09.10.22:795][794]LogWorld: UWorld::CleanupWorld for Map_Test, bSessionEnded=true, bCleanupResources=true
+[2024.08.18-09.10.22:795][794]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.18-09.10.22:803][794]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.18-09.10.22:806][794]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.18-09.10.22:816][794]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.08.18-09.10.22:816][794]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2024.08.18-09.10.22:816][794]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.08.18-09.10.22:818][794]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.08.18-09.10.22:836][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.08.18-09.10.22:929][795]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2024.08.18-09.11.18:456][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.08.18-09.11.18:459][103]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level_map/Map_Test' took 0.010
+[2024.08.18-09.11.18:459][103]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/blueprint/BP/BP_Enemy] ([2] browsable assets)...
+[2024.08.18-09.11.18:459][103]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint/BP/BP_Enemy]
+[2024.08.18-09.11.18:459][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprint/BP/BP_Enemy" FILE="../../../../git/Formal_Project/Serious_game/Saved/Autosaves/Game/blueprint/BP/BP_Enemy_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2024.08.18-09.11.18:473][103]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/blueprint/BP/BP_Enemy_Auto5
+[2024.08.18-09.11.18:473][103]LogSavePackage: Moving '../../../../git/Formal_Project/Serious_game/Saved/BP_Enemy_Auto56AC6DCE348633C9468F12484116C7A78.tmp' to '../../../../git/Formal_Project/Serious_game/Saved/Autosaves/Game/blueprint/BP/BP_Enemy_Auto5.uasset'
+[2024.08.18-09.11.18:473][103]LogFileHelpers: Auto-saving content packages took 0.015
+[2024.08.18-09.12.16:164][555]LogHttp: Warning: 00000A108C850500: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B67FB6D7A-4668-0721-DCAF-79A0DB2F6747%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=82e6429c4bb128831a5a0094b4ee4d93%7C321a48c023dc454e97e7b3afba6a06de%7Cb91ab89a-aec4-4123-b560-b4e815f2e0fe&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.08.18-09.12.16:164][555]LogHttp: Warning: 00000A108C850500: request failed, libcurl error: 35 (SSL connect error)
+[2024.08.18-09.12.16:164][555]LogHttp: Warning: 00000A108C850500: libcurl info message cache 0 (Connection 56 seems to be dead)
+[2024.08.18-09.12.16:164][555]LogHttp: Warning: 00000A108C850500: libcurl info message cache 1 (Closing connection)
+[2024.08.18-09.12.16:164][555]LogHttp: Warning: 00000A108C850500: libcurl info message cache 2 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2024.08.18-09.12.16:164][555]LogHttp: Warning: 00000A108C850500: libcurl info message cache 3 (Recv failure: Connection was aborted)
+[2024.08.18-09.12.16:164][555]LogHttp: Warning: 00000A108C850500: libcurl info message cache 4 (Hostname in DNS cache was stale, zapped)
+[2024.08.18-09.12.16:164][555]LogHttp: Warning: 00000A108C850500: libcurl info message cache 5 (  Trying 127.0.0.1:7890...)
+[2024.08.18-09.12.16:164][555]LogHttp: Warning: 00000A108C850500: libcurl info message cache 6 (Connected to 127.0.0.1 (127.0.0.1) port 7890)
+[2024.08.18-09.12.16:164][555]LogHttp: Warning: 00000A108C850500: libcurl info message cache 7 (CONNECT tunnel: HTTP/1.1 negotiated)
+[2024.08.18-09.12.16:164][555]LogHttp: Warning: 00000A108C850500: libcurl info message cache 8 (allocate connect buffer)
+[2024.08.18-09.12.16:164][555]LogHttp: Warning: 00000A108C850500: libcurl info message cache 9 (Establish HTTP proxy tunnel to datarouter.ol.epicgames.com:443)
+[2024.08.18-09.12.16:164][555]LogHttp: Warning: 00000A108C850500: libcurl info message cache 10 (CONNECT phase completed)
+[2024.08.18-09.12.16:164][555]LogHttp: Warning: 00000A108C850500: libcurl info message cache 11 (CONNECT tunnel established, response 200)
+[2024.08.18-09.12.16:164][555]LogHttp: Warning: 00000A108C850500: libcurl info message cache 12 (ALPN: curl offers http/1.1)
+[2024.08.18-09.12.16:164][555]LogHttp: Warning: 00000A108C850500: libcurl info message cache 13 (SSL reusing session ID)
+[2024.08.18-09.12.16:164][555]LogHttp: Warning: 00000A108C850500: libcurl info message cache 14 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.08.18-09.12.16:164][555]LogHttp: Warning: 00000A108C850500: libcurl info message cache 15 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2024.08.18-09.12.16:164][555]LogHttp: Warning: 00000A108C850500: libcurl info message cache 16 (Closing connection)
+[2024.08.18-09.12.16:164][555]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B67FB6D7A-4668-0721-DCAF-79A0DB2F6747%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=82e6429c4bb128831a5a0094b4ee4d93%7C321a48c023dc454e97e7b3afba6a06de%7Cb91ab89a-aec4-4123-b560-b4e815f2e0fe&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.08.18-09.13.19:524][330]BlueprintLog: New page: 编译BP_Enemy
+[2024.08.18-09.13.19:581][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.08.18-09.13.19:596][330]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.18-09.13.19:648][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprint/BP/BP_Enemy" FILE="../../../../git/Formal_Project/Serious_game/Content/blueprint/BP/BP_Enemy.uasset" SILENT=true
+[2024.08.18-09.13.19:663][330]LogSavePackage: Moving output files for package: /Game/blueprint/BP/BP_Enemy
+[2024.08.18-09.13.19:663][330]LogSavePackage: Moving '../../../../git/Formal_Project/Serious_game/Saved/BP_EnemyF6D0C1584173956849FC99B0B65CB216.tmp' to '../../../../git/Formal_Project/Serious_game/Content/blueprint/BP/BP_Enemy.uasset'
+[2024.08.18-09.13.19:670][330]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 2.93 sec)
+[2024.08.18-09.13.19:685][330]AssetCheck: New page: 资产保存：BP_Enemy
+[2024.08.18-09.13.19:685][330]LogContentValidation: Display: 正在验证/Script/Engine.Blueprint /Game/blueprint/BP/BP_Enemy.BP_Enemy
+[2024.08.18-09.13.20:878][398]LogDebuggerCommands: Repeating last play command: 新建编辑器窗口（PIE）
+[2024.08.18-09.13.20:883][398]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.08.18-09.13.20:883][398]PIE: New page: PIE会话：Map_Test（2024年8月19日 上午1:13:20）
+[2024.08.18-09.13.20:883][398]LogPlayLevel: Creating play world package: /Game/Level_map/UEDPIE_0_Map_Test
+[2024.08.18-09.13.20:886][398]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002634s)
+[2024.08.18-09.13.20:886][398]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_map/Map_Test.Map_Test to /Game/Level_map/UEDPIE_0_Map_Test.Map_Test (0.002658s)
+[2024.08.18-09.13.20:894][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.08.18-09.13.20:898][398]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.18-09.13.20:898][398]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.18-09.13.20:899][398]LogAIModule: Creating AISystem for world Map_Test
+[2024.08.18-09.13.20:899][398]LogPlayLevel: PIE: World Init took: (0.000854s)
+[2024.08.18-09.13.20:899][398]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2024.08.18-09.13.20:899][398]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.18-09.13.20:899][398]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.18-09.13.20:899][398]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.18-09.13.20:899][398]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.18-09.13.20:899][398]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.08.18-09.13.20:899][398]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.08.18-09.13.20:899][398]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.08.18-09.13.20:899][398]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.18-09.13.20:899][398]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.18-09.13.20:899][398]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.18-09.13.20:899][398]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.18-09.13.20:901][398]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.18-09.13.21:004][398]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (Realtek(R) Audio)
+[2024.08.18-09.13.21:004][398]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.18-09.13.21:004][398]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.18-09.13.21:004][398]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.18-09.13.21:004][398]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2024.08.18-09.13.21:005][398]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2024.08.18-09.13.21:006][398]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2024.08.18-09.13.21:006][398]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2024.08.18-09.13.21:006][398]LogInit: FAudioDevice initialized with ID 25.
+[2024.08.18-09.13.21:006][398]LogAudio: Display: Audio Device (ID: 25) registered with world 'Map_Test'.
+[2024.08.18-09.13.21:006][398]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2024.08.18-09.13.21:090][398]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.18-09.13.21:090][398]LogLoad: Game class is 'Mode_Game_C'
+[2024.08.18-09.13.21:103][398]LogWorld: Bringing World /Game/Level_map/UEDPIE_0_Map_Test.Map_Test up for play (max tick rate 60) at 2024.08.18-17.13.21
+[2024.08.18-09.13.21:103][398]LogWorld: Bringing up level for play took: 0.013284
+[2024.08.18-09.13.21:105][398]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2024.08.18-09.13.21:230][398]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.08.18-09.13.21:233][398]PIE: 登陆的服务器
+[2024.08.18-09.13.21:234][398]PIE: PIE总开始时间：0.351秒。
+[2024.08.18-09.13.21:245][398]LogViewport: Scene viewport resized to 2551x1468, mode Windowed.
+[2024.08.18-09.13.22:559][468]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.18-09.13.22:559][468]LogWorld: BeginTearingDown for /Game/Level_map/UEDPIE_0_Map_Test
+[2024.08.18-09.13.22:560][468]LogSlate: Window 'Serious_game 预览 [NetMode: Standalone 0]  （64-bit/PC D3D SM6）' being destroyed
+[2024.08.18-09.13.22:567][468]LogWorld: UWorld::CleanupWorld for Map_Test, bSessionEnded=true, bCleanupResources=true
+[2024.08.18-09.13.22:567][468]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.18-09.13.22:577][468]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.18-09.13.22:581][468]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.18-09.13.22:591][468]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2024.08.18-09.13.22:591][468]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.08.18-09.13.22:592][468]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.08.18-09.13.22:613][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.08.18-09.13.22:697][469]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2024.08.18-09.13.34:474][173]LogAssetEditorSubsystem: Opening Asset editor for DA_Enemy_C /Game/Data_assets/Enemy_Data_Assets/DA_bamboo.DA_bamboo
+[2024.08.18-09.14.18:890][831]BlueprintLog: New page: 编译BP_Enemy
+[2024.08.18-09.14.18:951][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.08.18-09.14.18:966][831]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.18-09.14.19:038][831]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprint/BP/BP_Enemy" FILE="../../../../git/Formal_Project/Serious_game/Content/blueprint/BP/BP_Enemy.uasset" SILENT=true
+[2024.08.18-09.14.19:053][831]LogSavePackage: Moving output files for package: /Game/blueprint/BP/BP_Enemy
+[2024.08.18-09.14.19:053][831]LogSavePackage: Moving '../../../../git/Formal_Project/Serious_game/Saved/BP_Enemy504DD3A1489AC96E2D9A608EFFBD6D18.tmp' to '../../../../git/Formal_Project/Serious_game/Content/blueprint/BP/BP_Enemy.uasset'
+[2024.08.18-09.14.19:060][831]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 3.02 sec)
+[2024.08.18-09.14.19:079][831]AssetCheck: New page: 资产保存：BP_Enemy
+[2024.08.18-09.14.19:079][831]LogContentValidation: Display: 正在验证/Script/Engine.Blueprint /Game/blueprint/BP/BP_Enemy.BP_Enemy
+[2024.08.18-09.14.19:242][837]LogHttp: Warning: 00000A1097D30500: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B67FB6D7A-4668-0721-DCAF-79A0DB2F6747%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=82e6429c4bb128831a5a0094b4ee4d93%7C321a48c023dc454e97e7b3afba6a06de%7Cb91ab89a-aec4-4123-b560-b4e815f2e0fe&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.08.18-09.14.19:242][837]LogHttp: Warning: 00000A1097D30500: request failed, libcurl error: 35 (SSL connect error)
+[2024.08.18-09.14.19:242][837]LogHttp: Warning: 00000A1097D30500: libcurl info message cache 0 (Connection 58 seems to be dead)
+[2024.08.18-09.14.19:242][837]LogHttp: Warning: 00000A1097D30500: libcurl info message cache 1 (Closing connection)
+[2024.08.18-09.14.19:242][837]LogHttp: Warning: 00000A1097D30500: libcurl info message cache 2 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2024.08.18-09.14.19:242][837]LogHttp: Warning: 00000A1097D30500: libcurl info message cache 3 (Recv failure: Connection was aborted)
+[2024.08.18-09.14.19:242][837]LogHttp: Warning: 00000A1097D30500: libcurl info message cache 4 (Hostname in DNS cache was stale, zapped)
+[2024.08.18-09.14.19:242][837]LogHttp: Warning: 00000A1097D30500: libcurl info message cache 5 (  Trying 127.0.0.1:7890...)
+[2024.08.18-09.14.19:242][837]LogHttp: Warning: 00000A1097D30500: libcurl info message cache 6 (Connected to 127.0.0.1 (127.0.0.1) port 7890)
+[2024.08.18-09.14.19:242][837]LogHttp: Warning: 00000A1097D30500: libcurl info message cache 7 (CONNECT tunnel: HTTP/1.1 negotiated)
+[2024.08.18-09.14.19:242][837]LogHttp: Warning: 00000A1097D30500: libcurl info message cache 8 (allocate connect buffer)
+[2024.08.18-09.14.19:242][837]LogHttp: Warning: 00000A1097D30500: libcurl info message cache 9 (Establish HTTP proxy tunnel to datarouter.ol.epicgames.com:443)
+[2024.08.18-09.14.19:242][837]LogHttp: Warning: 00000A1097D30500: libcurl info message cache 10 (CONNECT phase completed)
+[2024.08.18-09.14.19:242][837]LogHttp: Warning: 00000A1097D30500: libcurl info message cache 11 (CONNECT tunnel established, response 200)
+[2024.08.18-09.14.19:242][837]LogHttp: Warning: 00000A1097D30500: libcurl info message cache 12 (ALPN: curl offers http/1.1)
+[2024.08.18-09.14.19:242][837]LogHttp: Warning: 00000A1097D30500: libcurl info message cache 13 (SSL reusing session ID)
+[2024.08.18-09.14.19:242][837]LogHttp: Warning: 00000A1097D30500: libcurl info message cache 14 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.08.18-09.14.19:242][837]LogHttp: Warning: 00000A1097D30500: libcurl info message cache 15 (Recv failure: Connection was reset)
+[2024.08.18-09.14.19:242][837]LogHttp: Warning: 00000A1097D30500: libcurl info message cache 16 (OpenSSL SSL_connect: Connection was reset in connection to datarouter.ol.epicgames.com:443 )
+[2024.08.18-09.14.19:242][837]LogHttp: Warning: 00000A1097D30500: libcurl info message cache 17 (Closing connection)
+[2024.08.18-09.14.19:242][837]LogHttp: Warning: 00000A1097D30500: libcurl info message cache 18 (Recv failure: Connection was reset)
+[2024.08.18-09.14.19:242][837]LogHttp: Warning: 00000A1097D30500: libcurl info message cache 19 (Recv failure: Connection was reset)
+[2024.08.18-09.14.19:242][837]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B67FB6D7A-4668-0721-DCAF-79A0DB2F6747%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=82e6429c4bb128831a5a0094b4ee4d93%7C321a48c023dc454e97e7b3afba6a06de%7Cb91ab89a-aec4-4123-b560-b4e815f2e0fe&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.08.18-09.14.19:921][877]LogDebuggerCommands: Repeating last play command: 新建编辑器窗口（PIE）
+[2024.08.18-09.14.19:926][877]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.08.18-09.14.19:926][877]PIE: New page: PIE会话：Map_Test（2024年8月19日 上午1:14:19）
+[2024.08.18-09.14.19:926][877]LogPlayLevel: Creating play world package: /Game/Level_map/UEDPIE_0_Map_Test
+[2024.08.18-09.14.19:928][877]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002421s)
+[2024.08.18-09.14.19:928][877]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_map/Map_Test.Map_Test to /Game/Level_map/UEDPIE_0_Map_Test.Map_Test (0.002449s)
+[2024.08.18-09.14.19:938][877]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.08.18-09.14.19:943][877]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.18-09.14.19:943][877]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.18-09.14.19:943][877]LogAIModule: Creating AISystem for world Map_Test
+[2024.08.18-09.14.19:943][877]LogPlayLevel: PIE: World Init took: (0.000823s)
+[2024.08.18-09.14.19:943][877]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2024.08.18-09.14.19:943][877]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.18-09.14.19:943][877]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.18-09.14.19:943][877]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.18-09.14.19:943][877]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.18-09.14.19:943][877]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.08.18-09.14.19:943][877]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.08.18-09.14.19:943][877]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.08.18-09.14.19:943][877]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.18-09.14.19:944][877]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.18-09.14.19:944][877]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.18-09.14.19:944][877]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.18-09.14.19:945][877]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.18-09.14.20:015][877]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (Realtek(R) Audio)
+[2024.08.18-09.14.20:015][877]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.18-09.14.20:015][877]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.18-09.14.20:015][877]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.18-09.14.20:015][877]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2024.08.18-09.14.20:015][877]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2024.08.18-09.14.20:017][877]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2024.08.18-09.14.20:017][877]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2024.08.18-09.14.20:017][877]LogInit: FAudioDevice initialized with ID 26.
+[2024.08.18-09.14.20:017][877]LogAudio: Display: Audio Device (ID: 26) registered with world 'Map_Test'.
+[2024.08.18-09.14.20:017][877]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2024.08.18-09.14.20:078][877]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.18-09.14.20:078][877]LogLoad: Game class is 'Mode_Game_C'
+[2024.08.18-09.14.20:087][877]LogWorld: Bringing World /Game/Level_map/UEDPIE_0_Map_Test.Map_Test up for play (max tick rate 60) at 2024.08.18-17.14.20
+[2024.08.18-09.14.20:088][877]LogWorld: Bringing up level for play took: 0.008199
+[2024.08.18-09.14.20:089][877]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2024.08.18-09.14.20:214][877]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.08.18-09.14.20:216][877]PIE: 登陆的服务器
+[2024.08.18-09.14.20:218][877]PIE: PIE总开始时间：0.293秒。
+[2024.08.18-09.14.20:227][877]LogViewport: Scene viewport resized to 2551x1468, mode Windowed.
+[2024.08.18-09.14.23:373][ 57]LogBlueprintUserMessages: [UI_Fight_C_0] correct
+[2024.08.18-09.14.23:373][ 57]LogBlueprintUserMessages: [BP_Enemy_C_1] Hello
+[2024.08.18-09.14.23:373][ 57]LogBlueprintUserMessages: [BP_Enemy_C_1] 50.0
+[2024.08.18-09.14.24:807][143]LogBlueprintUserMessages: [UI_Fight_C_0] correct
+[2024.08.18-09.14.24:807][143]LogBlueprintUserMessages: [BP_Enemy_C_1] Hello
+[2024.08.18-09.14.24:807][143]LogBlueprintUserMessages: [BP_Enemy_C_1] 0.0
+[2024.08.18-09.14.24:807][143]LogBlueprintUserMessages: [BP_Enemy_C_1] victory
+[2024.08.18-09.14.27:174][285]LogBlueprintUserMessages: [UI_Fight_C_1] correct
+[2024.08.18-09.14.27:174][285]LogBlueprintUserMessages: [BP_Enemy_C_2] Hello
+[2024.08.18-09.14.27:174][285]LogBlueprintUserMessages: [BP_Enemy_C_2] 50.0
+[2024.08.18-09.14.28:491][364]LogBlueprintUserMessages: [UI_Fight_C_1] correct
+[2024.08.18-09.14.28:491][364]LogBlueprintUserMessages: [BP_Enemy_C_2] Hello
+[2024.08.18-09.14.28:491][364]LogBlueprintUserMessages: [BP_Enemy_C_2] 0.0
+[2024.08.18-09.14.28:491][364]LogBlueprintUserMessages: [BP_Enemy_C_2] victory
+[2024.08.18-09.14.31:891][568]LogBlueprintUserMessages: [UI_Fight_C_2] correct
+[2024.08.18-09.14.31:891][568]LogBlueprintUserMessages: [BP_Enemy_C_3] Hello
+[2024.08.18-09.14.31:891][568]LogBlueprintUserMessages: [BP_Enemy_C_3] -50.0
+[2024.08.18-09.14.31:891][568]LogBlueprintUserMessages: [BP_Enemy_C_3] victory
+[2024.08.18-09.14.33:449][659]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.18-09.14.33:449][659]LogWorld: BeginTearingDown for /Game/Level_map/UEDPIE_0_Map_Test
+[2024.08.18-09.14.33:449][659]LogSlate: Window 'Serious_game 预览 [NetMode: Standalone 0]  （64-bit/PC D3D SM6）' being destroyed
+[2024.08.18-09.14.33:456][659]LogWorld: UWorld::CleanupWorld for Map_Test, bSessionEnded=true, bCleanupResources=true
+[2024.08.18-09.14.33:456][659]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.18-09.14.33:468][659]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.18-09.14.33:472][659]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.18-09.14.33:482][659]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2024.08.18-09.14.33:483][659]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.08.18-09.14.33:484][659]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.08.18-09.14.33:503][659]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.08.18-09.14.33:594][660]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2024.08.18-09.15.36:196][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.08.18-09.15.36:201][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_map/Map_Test" FILE="../../../../git/Formal_Project/Serious_game/Saved/Autosaves/Game/Level_map/Map_Test_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.08.18-09.15.36:208][400]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level_map/Map_Test_Auto6
+[2024.08.18-09.15.36:208][400]LogSavePackage: Moving '../../../../git/Formal_Project/Serious_game/Saved/Map_Test_Auto6CECCEDCA4871E9DA0479838DD45164C4.tmp' to '../../../../git/Formal_Project/Serious_game/Saved/Autosaves/Game/Level_map/Map_Test_Auto6.umap'
+[2024.08.18-09.15.36:208][400]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../git/Formal_Project/Serious_game/Saved/Autosaves/Game/Level_map/Map_Test_Auto6.umap is in the /Temp path, will not scan.
+[2024.08.18-09.15.36:208][400]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Level_map/Map_Test_Auto6 is in the /Temp path, will not scan.
+[2024.08.18-09.15.36:208][400]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Level_map/Map_Test_Auto6 is in the /Temp path, will not scan.
+[2024.08.18-09.15.36:208][400]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level_map/Map_Test' took 0.019
+[2024.08.18-09.15.36:208][400]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.019
+[2024.08.18-09.16.11:602][522]LogDerivedDataCache: C:/Users/ROG/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.041 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1038 files in 1701 folders with total size 66 MiB.
+[2024.08.18-09.16.15:683][767]LogHttp: Warning: 00000A107E8FA000: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B67FB6D7A-4668-0721-DCAF-79A0DB2F6747%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=82e6429c4bb128831a5a0094b4ee4d93%7C321a48c023dc454e97e7b3afba6a06de%7Cb91ab89a-aec4-4123-b560-b4e815f2e0fe&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.08.18-09.16.15:683][767]LogHttp: Warning: 00000A107E8FA000: request failed, libcurl error: 35 (SSL connect error)
+[2024.08.18-09.16.15:683][767]LogHttp: Warning: 00000A107E8FA000: libcurl info message cache 0 (Connection 60 seems to be dead)
+[2024.08.18-09.16.15:683][767]LogHttp: Warning: 00000A107E8FA000: libcurl info message cache 1 (Closing connection)
+[2024.08.18-09.16.15:683][767]LogHttp: Warning: 00000A107E8FA000: libcurl info message cache 2 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2024.08.18-09.16.15:683][767]LogHttp: Warning: 00000A107E8FA000: libcurl info message cache 3 (Recv failure: Connection was aborted)
+[2024.08.18-09.16.15:683][767]LogHttp: Warning: 00000A107E8FA000: libcurl info message cache 4 (Hostname in DNS cache was stale, zapped)
+[2024.08.18-09.16.15:683][767]LogHttp: Warning: 00000A107E8FA000: libcurl info message cache 5 (  Trying 127.0.0.1:7890...)
+[2024.08.18-09.16.15:683][767]LogHttp: Warning: 00000A107E8FA000: libcurl info message cache 6 (Connected to 127.0.0.1 (127.0.0.1) port 7890)
+[2024.08.18-09.16.15:683][767]LogHttp: Warning: 00000A107E8FA000: libcurl info message cache 7 (CONNECT tunnel: HTTP/1.1 negotiated)
+[2024.08.18-09.16.15:683][767]LogHttp: Warning: 00000A107E8FA000: libcurl info message cache 8 (allocate connect buffer)
+[2024.08.18-09.16.15:683][767]LogHttp: Warning: 00000A107E8FA000: libcurl info message cache 9 (Establish HTTP proxy tunnel to datarouter.ol.epicgames.com:443)
+[2024.08.18-09.16.15:683][767]LogHttp: Warning: 00000A107E8FA000: libcurl info message cache 10 (CONNECT phase completed)
+[2024.08.18-09.16.15:683][767]LogHttp: Warning: 00000A107E8FA000: libcurl info message cache 11 (CONNECT tunnel established, response 200)
+[2024.08.18-09.16.15:683][767]LogHttp: Warning: 00000A107E8FA000: libcurl info message cache 12 (ALPN: curl offers http/1.1)
+[2024.08.18-09.16.15:683][767]LogHttp: Warning: 00000A107E8FA000: libcurl info message cache 13 (SSL reusing session ID)
+[2024.08.18-09.16.15:683][767]LogHttp: Warning: 00000A107E8FA000: libcurl info message cache 14 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.08.18-09.16.15:683][767]LogHttp: Warning: 00000A107E8FA000: libcurl info message cache 15 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2024.08.18-09.16.15:683][767]LogHttp: Warning: 00000A107E8FA000: libcurl info message cache 16 (Closing connection)
+[2024.08.18-09.16.15:683][767]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B67FB6D7A-4668-0721-DCAF-79A0DB2F6747%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=82e6429c4bb128831a5a0094b4ee4d93%7C321a48c023dc454e97e7b3afba6a06de%7Cb91ab89a-aec4-4123-b560-b4e815f2e0fe&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.08.18-09.17.18:226][473]BlueprintLog: New page: 编译BP_Enemy
+[2024.08.18-09.17.18:284][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.08.18-09.17.18:301][473]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.18-09.17.18:368][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprint/BP/BP_Enemy" FILE="../../../../git/Formal_Project/Serious_game/Content/blueprint/BP/BP_Enemy.uasset" SILENT=true
+[2024.08.18-09.17.18:383][473]LogSavePackage: Moving output files for package: /Game/blueprint/BP/BP_Enemy
+[2024.08.18-09.17.18:383][473]LogSavePackage: Moving '../../../../git/Formal_Project/Serious_game/Saved/BP_EnemyC15EED3B477E8D4E1F826FA3E83CBF14.tmp' to '../../../../git/Formal_Project/Serious_game/Content/blueprint/BP/BP_Enemy.uasset'
+[2024.08.18-09.17.18:392][473]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 3.12 sec)
+[2024.08.18-09.17.18:394][473]AssetCheck: New page: 资产保存：BP_Enemy
+[2024.08.18-09.17.18:394][473]LogContentValidation: Display: 正在验证/Script/Engine.Blueprint /Game/blueprint/BP/BP_Enemy.BP_Enemy
+[2024.08.18-09.18.19:226][120]LogHttp: Warning: 00000A109764E100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B67FB6D7A-4668-0721-DCAF-79A0DB2F6747%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=82e6429c4bb128831a5a0094b4ee4d93%7C321a48c023dc454e97e7b3afba6a06de%7Cb91ab89a-aec4-4123-b560-b4e815f2e0fe&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.08.18-09.18.19:226][120]LogHttp: Warning: 00000A109764E100: request failed, libcurl error: 35 (SSL connect error)
+[2024.08.18-09.18.19:226][120]LogHttp: Warning: 00000A109764E100: libcurl info message cache 0 (Connection 62 seems to be dead)
+[2024.08.18-09.18.19:226][120]LogHttp: Warning: 00000A109764E100: libcurl info message cache 1 (Closing connection)
+[2024.08.18-09.18.19:226][120]LogHttp: Warning: 00000A109764E100: libcurl info message cache 2 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2024.08.18-09.18.19:226][120]LogHttp: Warning: 00000A109764E100: libcurl info message cache 3 (Recv failure: Connection was aborted)
+[2024.08.18-09.18.19:226][120]LogHttp: Warning: 00000A109764E100: libcurl info message cache 4 (Hostname in DNS cache was stale, zapped)
+[2024.08.18-09.18.19:226][120]LogHttp: Warning: 00000A109764E100: libcurl info message cache 5 (  Trying 127.0.0.1:7890...)
+[2024.08.18-09.18.19:226][120]LogHttp: Warning: 00000A109764E100: libcurl info message cache 6 (Connected to 127.0.0.1 (127.0.0.1) port 7890)
+[2024.08.18-09.18.19:226][120]LogHttp: Warning: 00000A109764E100: libcurl info message cache 7 (CONNECT tunnel: HTTP/1.1 negotiated)
+[2024.08.18-09.18.19:226][120]LogHttp: Warning: 00000A109764E100: libcurl info message cache 8 (allocate connect buffer)
+[2024.08.18-09.18.19:226][120]LogHttp: Warning: 00000A109764E100: libcurl info message cache 9 (Establish HTTP proxy tunnel to datarouter.ol.epicgames.com:443)
+[2024.08.18-09.18.19:226][120]LogHttp: Warning: 00000A109764E100: libcurl info message cache 10 (CONNECT phase completed)
+[2024.08.18-09.18.19:226][120]LogHttp: Warning: 00000A109764E100: libcurl info message cache 11 (CONNECT tunnel established, response 200)
+[2024.08.18-09.18.19:226][120]LogHttp: Warning: 00000A109764E100: libcurl info message cache 12 (ALPN: curl offers http/1.1)
+[2024.08.18-09.18.19:226][120]LogHttp: Warning: 00000A109764E100: libcurl info message cache 13 (SSL reusing session ID)
+[2024.08.18-09.18.19:226][120]LogHttp: Warning: 00000A109764E100: libcurl info message cache 14 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.08.18-09.18.19:226][120]LogHttp: Warning: 00000A109764E100: libcurl info message cache 15 (Recv failure: Connection was reset)
+[2024.08.18-09.18.19:226][120]LogHttp: Warning: 00000A109764E100: libcurl info message cache 16 (OpenSSL SSL_connect: Connection was reset in connection to datarouter.ol.epicgames.com:443 )
+[2024.08.18-09.18.19:226][120]LogHttp: Warning: 00000A109764E100: libcurl info message cache 17 (Closing connection)
+[2024.08.18-09.18.19:226][120]LogHttp: Warning: 00000A109764E100: libcurl info message cache 18 (Recv failure: Connection was reset)
+[2024.08.18-09.18.19:226][120]LogHttp: Warning: 00000A109764E100: libcurl info message cache 19 (Recv failure: Connection was reset)
+[2024.08.18-09.18.19:226][120]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B67FB6D7A-4668-0721-DCAF-79A0DB2F6747%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=82e6429c4bb128831a5a0094b4ee4d93%7C321a48c023dc454e97e7b3afba6a06de%7Cb91ab89a-aec4-4123-b560-b4e815f2e0fe&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.08.18-09.18.36:329][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.08.18-09.18.36:333][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_map/Map_Test" FILE="../../../../git/Formal_Project/Serious_game/Saved/Autosaves/Game/Level_map/Map_Test_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.08.18-09.18.36:341][134]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level_map/Map_Test_Auto7
+[2024.08.18-09.18.36:341][134]LogSavePackage: Moving '../../../../git/Formal_Project/Serious_game/Saved/Map_Test_Auto79AC873E8460859BD50DE1F92F01DBD85.tmp' to '../../../../git/Formal_Project/Serious_game/Saved/Autosaves/Game/Level_map/Map_Test_Auto7.umap'
+[2024.08.18-09.18.36:341][134]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../git/Formal_Project/Serious_game/Saved/Autosaves/Game/Level_map/Map_Test_Auto7.umap is in the /Temp path, will not scan.
+[2024.08.18-09.18.36:341][134]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Level_map/Map_Test_Auto7 is in the /Temp path, will not scan.
+[2024.08.18-09.18.36:341][134]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Level_map/Map_Test_Auto7 is in the /Temp path, will not scan.
+[2024.08.18-09.18.36:342][134]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level_map/Map_Test' took 0.019
+[2024.08.18-09.18.36:342][134]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.019
+[2024.08.18-09.18.36:342][134]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/blueprint/BP/BP_Enemy] ([2] browsable assets)...
+[2024.08.18-09.18.36:342][134]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint/BP/BP_Enemy]
+[2024.08.18-09.18.36:342][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprint/BP/BP_Enemy" FILE="../../../../git/Formal_Project/Serious_game/Saved/Autosaves/Game/blueprint/BP/BP_Enemy_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2024.08.18-09.18.36:355][134]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/blueprint/BP/BP_Enemy_Auto7
+[2024.08.18-09.18.36:355][134]LogSavePackage: Moving '../../../../git/Formal_Project/Serious_game/Saved/BP_Enemy_Auto77068E1134ED4DC482B0C0EA646F1792C.tmp' to '../../../../git/Formal_Project/Serious_game/Saved/Autosaves/Game/blueprint/BP/BP_Enemy_Auto7.uasset'
+[2024.08.18-09.18.36:355][134]LogFileHelpers: Auto-saving content packages took 0.014
+[2024.08.18-09.19.04:688][831]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.08.18-09.19.04:688][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.18-09.20.04:476][400]LogEditorTransaction: Undo 删除当前选项
+[2024.08.18-09.21.42:095][184]BlueprintLog: New page: 编译BP_Enemy
+[2024.08.18-09.21.42:159][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.08.18-09.21.42:176][184]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.18-09.21.42:241][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprint/BP/BP_Enemy" FILE="../../../../git/Formal_Project/Serious_game/Content/blueprint/BP/BP_Enemy.uasset" SILENT=true
+[2024.08.18-09.21.42:256][184]LogSavePackage: Moving output files for package: /Game/blueprint/BP/BP_Enemy
+[2024.08.18-09.21.42:256][184]LogSavePackage: Moving '../../../../git/Formal_Project/Serious_game/Saved/BP_Enemy8B0B975046A963CDEC03358A285239F7.tmp' to '../../../../git/Formal_Project/Serious_game/Content/blueprint/BP/BP_Enemy.uasset'
+[2024.08.18-09.21.42:263][184]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 3.20 sec)
+[2024.08.18-09.21.42:267][184]AssetCheck: New page: 资产保存：BP_Enemy
+[2024.08.18-09.21.42:267][184]LogContentValidation: Display: 正在验证/Script/Engine.Blueprint /Game/blueprint/BP/BP_Enemy.BP_Enemy
+[2024.08.18-09.21.43:195][236]LogDebuggerCommands: Repeating last play command: 新建编辑器窗口（PIE）
+[2024.08.18-09.21.43:200][236]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.08.18-09.21.43:200][236]PIE: New page: PIE会话：Map_Test（2024年8月19日 上午1:21:43）
+[2024.08.18-09.21.43:200][236]LogPlayLevel: Creating play world package: /Game/Level_map/UEDPIE_0_Map_Test
+[2024.08.18-09.21.43:203][236]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002451s)
+[2024.08.18-09.21.43:203][236]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_map/Map_Test.Map_Test to /Game/Level_map/UEDPIE_0_Map_Test.Map_Test (0.002479s)
+[2024.08.18-09.21.43:209][236]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.08.18-09.21.43:213][236]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.18-09.21.43:213][236]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.18-09.21.43:214][236]LogAIModule: Creating AISystem for world Map_Test
+[2024.08.18-09.21.43:214][236]LogPlayLevel: PIE: World Init took: (0.000852s)
+[2024.08.18-09.21.43:214][236]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2024.08.18-09.21.43:214][236]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.18-09.21.43:214][236]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.18-09.21.43:214][236]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.18-09.21.43:214][236]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.18-09.21.43:214][236]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.08.18-09.21.43:214][236]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.08.18-09.21.43:214][236]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.08.18-09.21.43:214][236]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.18-09.21.43:214][236]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.18-09.21.43:214][236]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.18-09.21.43:214][236]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.18-09.21.43:215][236]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.18-09.21.43:340][236]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (Realtek(R) Audio)
+[2024.08.18-09.21.43:340][236]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.18-09.21.43:340][236]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.18-09.21.43:340][236]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.18-09.21.43:341][236]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2024.08.18-09.21.43:341][236]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2024.08.18-09.21.43:342][236]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2024.08.18-09.21.43:342][236]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2024.08.18-09.21.43:342][236]LogInit: FAudioDevice initialized with ID 27.
+[2024.08.18-09.21.43:342][236]LogAudio: Display: Audio Device (ID: 27) registered with world 'Map_Test'.
+[2024.08.18-09.21.43:342][236]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2024.08.18-09.21.43:432][236]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.18-09.21.43:433][236]LogLoad: Game class is 'Mode_Game_C'
+[2024.08.18-09.21.43:444][236]LogWorld: Bringing World /Game/Level_map/UEDPIE_0_Map_Test.Map_Test up for play (max tick rate 60) at 2024.08.18-17.21.43
+[2024.08.18-09.21.43:444][236]LogWorld: Bringing up level for play took: 0.011434
+[2024.08.18-09.21.43:446][236]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2024.08.18-09.21.43:572][236]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.08.18-09.21.43:574][236]PIE: 登陆的服务器
+[2024.08.18-09.21.43:575][236]PIE: PIE总开始时间：0.376秒。
+[2024.08.18-09.21.43:586][236]LogViewport: Scene viewport resized to 2551x1468, mode Windowed.
+[2024.08.18-09.21.48:579][528]LogBlueprintUserMessages: [UI_Fight_C_0] correct
+[2024.08.18-09.21.48:579][528]LogBlueprintUserMessages: [BP_Enemy_C_1] Hello
+[2024.08.18-09.21.48:579][528]LogBlueprintUserMessages: [BP_Enemy_C_1] 50.0
+[2024.08.18-09.21.49:788][599]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.18-09.21.49:788][599]LogWorld: BeginTearingDown for /Game/Level_map/UEDPIE_0_Map_Test
+[2024.08.18-09.21.49:788][599]LogSlate: Window 'Serious_game 预览 [NetMode: Standalone 0]  （64-bit/PC D3D SM6）' being destroyed
+[2024.08.18-09.21.49:795][599]LogWorld: UWorld::CleanupWorld for Map_Test, bSessionEnded=true, bCleanupResources=true
+[2024.08.18-09.21.49:795][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.18-09.21.49:804][599]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.18-09.21.49:808][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.18-09.21.49:818][599]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.08.18-09.21.49:818][599]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2024.08.18-09.21.49:818][599]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2024.08.18-09.21.49:819][599]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2024.08.18-09.21.49:840][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.08.18-09.21.49:933][600]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2024.08.18-09.21.50:648][643]LogDebuggerCommands: Repeating last play command: 新建编辑器窗口（PIE）
+[2024.08.18-09.21.50:652][643]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.08.18-09.21.50:652][643]PIE: New page: PIE会话：Map_Test（2024年8月19日 上午1:21:50）
+[2024.08.18-09.21.50:652][643]LogPlayLevel: Creating play world package: /Game/Level_map/UEDPIE_0_Map_Test
+[2024.08.18-09.21.50:655][643]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002532s)
+[2024.08.18-09.21.50:655][643]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_map/Map_Test.Map_Test to /Game/Level_map/UEDPIE_0_Map_Test.Map_Test (0.002556s)
+[2024.08.18-09.21.50:666][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.08.18-09.21.50:667][643]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.18-09.21.50:667][643]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.18-09.21.50:667][643]LogAIModule: Creating AISystem for world Map_Test
+[2024.08.18-09.21.50:667][643]LogPlayLevel: PIE: World Init took: (0.000788s)
+[2024.08.18-09.21.50:667][643]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2024.08.18-09.21.50:667][643]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.18-09.21.50:667][643]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.18-09.21.50:667][643]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.18-09.21.50:667][643]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.18-09.21.50:668][643]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.08.18-09.21.50:668][643]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.08.18-09.21.50:668][643]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.08.18-09.21.50:668][643]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.18-09.21.50:668][643]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.18-09.21.50:668][643]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.18-09.21.50:668][643]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.18-09.21.50:669][643]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.18-09.21.50:741][643]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (Realtek(R) Audio)
+[2024.08.18-09.21.50:741][643]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.18-09.21.50:741][643]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.18-09.21.50:741][643]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.18-09.21.50:742][643]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2024.08.18-09.21.50:742][643]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2024.08.18-09.21.50:743][643]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2024.08.18-09.21.50:743][643]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2024.08.18-09.21.50:743][643]LogInit: FAudioDevice initialized with ID 28.
+[2024.08.18-09.21.50:743][643]LogAudio: Display: Audio Device (ID: 28) registered with world 'Map_Test'.
+[2024.08.18-09.21.50:743][643]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2024.08.18-09.21.50:797][643]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.18-09.21.50:797][643]LogLoad: Game class is 'Mode_Game_C'
+[2024.08.18-09.21.50:804][643]LogWorld: Bringing World /Game/Level_map/UEDPIE_0_Map_Test.Map_Test up for play (max tick rate 60) at 2024.08.18-17.21.50
+[2024.08.18-09.21.50:804][643]LogWorld: Bringing up level for play took: 0.006996
+[2024.08.18-09.21.50:807][643]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2024.08.18-09.21.50:934][643]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.08.18-09.21.50:937][643]PIE: 登陆的服务器
+[2024.08.18-09.21.50:938][643]PIE: PIE总开始时间：0.285秒。
+[2024.08.18-09.21.50:947][643]LogViewport: Scene viewport resized to 2551x1468, mode Windowed.
+[2024.08.18-09.21.53:411][784]LogBlueprintUserMessages: [UI_Fight_C_0] correct
+[2024.08.18-09.21.53:411][784]LogBlueprintUserMessages: [BP_Enemy_C_1] Hello
+[2024.08.18-09.21.53:411][784]LogBlueprintUserMessages: [BP_Enemy_C_1] 50.0
+[2024.08.18-09.21.54:744][864]LogBlueprintUserMessages: [UI_Fight_C_0] correct
+[2024.08.18-09.21.54:744][864]LogBlueprintUserMessages: [BP_Enemy_C_1] Hello
+[2024.08.18-09.21.54:744][864]LogBlueprintUserMessages: [BP_Enemy_C_1] 0.0
+[2024.08.18-09.21.54:744][864]LogBlueprintUserMessages: [BP_Enemy_C_1] victory
+[2024.08.18-09.21.57:144][  8]LogBlueprintUserMessages: [UI_Fight_C_1] correct
+[2024.08.18-09.21.57:144][  8]LogBlueprintUserMessages: [BP_Enemy_C_2] Hello
+[2024.08.18-09.21.57:144][  8]LogBlueprintUserMessages: [BP_Enemy_C_2] 50.0
+[2024.08.18-09.21.58:228][ 73]LogBlueprintUserMessages: [UI_Fight_C_1] correct
+[2024.08.18-09.21.58:228][ 73]LogBlueprintUserMessages: [BP_Enemy_C_2] Hello
+[2024.08.18-09.21.58:228][ 73]LogBlueprintUserMessages: [BP_Enemy_C_2] 0.0
+[2024.08.18-09.21.58:228][ 73]LogBlueprintUserMessages: [BP_Enemy_C_2] victory
+[2024.08.18-09.22.01:611][276]LogBlueprintUserMessages: [UI_Fight_C_2] correct
+[2024.08.18-09.22.01:611][276]LogBlueprintUserMessages: [BP_Enemy_C_3] Hello
+[2024.08.18-09.22.01:611][276]LogBlueprintUserMessages: [BP_Enemy_C_3] 50.0
+[2024.08.18-09.22.03:227][373]LogBlueprintUserMessages: [UI_Fight_C_2] correct
+[2024.08.18-09.22.03:227][373]LogBlueprintUserMessages: [BP_Enemy_C_3] Hello
+[2024.08.18-09.22.03:227][373]LogBlueprintUserMessages: [BP_Enemy_C_3] 0.0
+[2024.08.18-09.22.03:227][373]LogBlueprintUserMessages: [BP_Enemy_C_3] victory
+[2024.08.18-09.22.04:418][443]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.18-09.22.04:418][443]LogWorld: BeginTearingDown for /Game/Level_map/UEDPIE_0_Map_Test
+[2024.08.18-09.22.04:418][443]LogSlate: Window 'Serious_game 预览 [NetMode: Standalone 0]  （64-bit/PC D3D SM6）' being destroyed
+[2024.08.18-09.22.04:423][443]LogWorld: UWorld::CleanupWorld for Map_Test, bSessionEnded=true, bCleanupResources=true
+[2024.08.18-09.22.04:423][443]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.18-09.22.04:436][443]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.18-09.22.04:438][443]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.18-09.22.04:451][443]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2024.08.18-09.22.04:451][443]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2024.08.18-09.22.04:453][443]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2024.08.18-09.22.04:474][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.08.18-09.22.04:564][444]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2024.08.18-09.22.05:579][505]BlueprintLog: New page: 编译BP_Enemy
+[2024.08.18-09.22.05:640][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.08.18-09.22.12:764][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.08.18-09.22.13:617][736]LogSlate: Window '保存内容' being destroyed
+[2024.08.18-09.22.13:625][736]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.18-09.22.13:681][736]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_map/Map_Test" FILE="../../../../git/Formal_Project/Serious_game/Content/Level_map/Map_Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.08.18-09.22.13:703][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.08.18-09.22.13:713][736]LogSavePackage: Moving output files for package: /Game/Level_map/Map_Test
+[2024.08.18-09.22.13:713][736]LogSavePackage: Moving '../../../../git/Formal_Project/Serious_game/Saved/Map_Test8D9143204BAD477E45CE2D9F97CD3B0E.tmp' to '../../../../git/Formal_Project/Serious_game/Content/Level_map/Map_Test.umap'
+[2024.08.18-09.22.13:717][736]LogFileHelpers: Saving map 'Map_Test' took 0.036
+[2024.08.18-09.22.13:725][736]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 3.30 sec)
+[2024.08.18-09.22.13:727][736]AssetCheck: New page: 资产保存：Map_Test
+[2024.08.18-09.22.13:727][736]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/Level_map/Map_Test.Map_Test
+[2024.08.18-09.22.19:427][813]LogHttp: Warning: 00000A1099D8C800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B67FB6D7A-4668-0721-DCAF-79A0DB2F6747%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=82e6429c4bb128831a5a0094b4ee4d93%7C321a48c023dc454e97e7b3afba6a06de%7Cb91ab89a-aec4-4123-b560-b4e815f2e0fe&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.08.18-09.22.19:427][813]LogHttp: Warning: 00000A1099D8C800: request failed, libcurl error: 35 (SSL connect error)
+[2024.08.18-09.22.19:427][813]LogHttp: Warning: 00000A1099D8C800: libcurl info message cache 0 (Connection 66 seems to be dead)
+[2024.08.18-09.22.19:427][813]LogHttp: Warning: 00000A1099D8C800: libcurl info message cache 1 (Closing connection)
+[2024.08.18-09.22.19:427][813]LogHttp: Warning: 00000A1099D8C800: libcurl info message cache 2 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2024.08.18-09.22.19:427][813]LogHttp: Warning: 00000A1099D8C800: libcurl info message cache 3 (Recv failure: Connection was aborted)
+[2024.08.18-09.22.19:427][813]LogHttp: Warning: 00000A1099D8C800: libcurl info message cache 4 (Hostname in DNS cache was stale, zapped)
+[2024.08.18-09.22.19:427][813]LogHttp: Warning: 00000A1099D8C800: libcurl info message cache 5 (  Trying 127.0.0.1:7890...)
+[2024.08.18-09.22.19:427][813]LogHttp: Warning: 00000A1099D8C800: libcurl info message cache 6 (Connected to 127.0.0.1 (127.0.0.1) port 7890)
+[2024.08.18-09.22.19:427][813]LogHttp: Warning: 00000A1099D8C800: libcurl info message cache 7 (CONNECT tunnel: HTTP/1.1 negotiated)
+[2024.08.18-09.22.19:427][813]LogHttp: Warning: 00000A1099D8C800: libcurl info message cache 8 (allocate connect buffer)
+[2024.08.18-09.22.19:427][813]LogHttp: Warning: 00000A1099D8C800: libcurl info message cache 9 (Establish HTTP proxy tunnel to datarouter.ol.epicgames.com:443)
+[2024.08.18-09.22.19:427][813]LogHttp: Warning: 00000A1099D8C800: libcurl info message cache 10 (CONNECT phase completed)
+[2024.08.18-09.22.19:427][813]LogHttp: Warning: 00000A1099D8C800: libcurl info message cache 11 (CONNECT tunnel established, response 200)
+[2024.08.18-09.22.19:427][813]LogHttp: Warning: 00000A1099D8C800: libcurl info message cache 12 (ALPN: curl offers http/1.1)
+[2024.08.18-09.22.19:427][813]LogHttp: Warning: 00000A1099D8C800: libcurl info message cache 13 (SSL reusing session ID)
+[2024.08.18-09.22.19:427][813]LogHttp: Warning: 00000A1099D8C800: libcurl info message cache 14 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.08.18-09.22.19:427][813]LogHttp: Warning: 00000A1099D8C800: libcurl info message cache 15 (Recv failure: Connection was reset)
+[2024.08.18-09.22.19:427][813]LogHttp: Warning: 00000A1099D8C800: libcurl info message cache 16 (OpenSSL SSL_connect: Connection was reset in connection to datarouter.ol.epicgames.com:443 )
+[2024.08.18-09.22.19:427][813]LogHttp: Warning: 00000A1099D8C800: libcurl info message cache 17 (Closing connection)
+[2024.08.18-09.22.19:427][813]LogHttp: Warning: 00000A1099D8C800: libcurl info message cache 18 (Recv failure: Connection was reset)
+[2024.08.18-09.22.19:427][813]LogHttp: Warning: 00000A1099D8C800: libcurl info message cache 19 (Recv failure: Connection was reset)
+[2024.08.18-09.22.19:427][813]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B67FB6D7A-4668-0721-DCAF-79A0DB2F6747%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=82e6429c4bb128831a5a0094b4ee4d93%7C321a48c023dc454e97e7b3afba6a06de%7Cb91ab89a-aec4-4123-b560-b4e815f2e0fe&AppEnvironment=datacollector-binary&UploadType=eteventstream

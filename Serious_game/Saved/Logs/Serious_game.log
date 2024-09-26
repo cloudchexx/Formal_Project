@@ -2049,3 +2049,37 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.09.26-12.32.50:161][514]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 423 ms)
 [2024.09.26-12.32.50:163][514]AssetCheck: New page: 资产保存：Level04
 [2024.09.26-12.32.50:163][514]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/Level_map/Level_04/Level04.Level04
+[2024.09.26-12.33.28:240][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.09.26-12.33.28:288][158]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.09.26-12.33.28:294][158]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level_map/Level_01/level_01.level_01
+[2024.09.26-12.33.28:295][158]Cmd: MAP LOAD FILE="../../../../Game_Project/Formal_Project/Serious_game/Content/Level_map/Level_01/level_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.09.26-12.33.28:295][158]LightingResults: New page: 光照构建
+[2024.09.26-12.33.28:295][158]LoadErrors: New page: 正在加载地图：level_01.umap
+[2024.09.26-12.33.28:307][158]LogWorld: UWorld::CleanupWorld for Level04, bSessionEnded=true, bCleanupResources=true
+[2024.09.26-12.33.28:307][158]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.26-12.33.28:307][158]MapCheck: New page: 地图检测
+[2024.09.26-12.33.28:307][158]LightingResults: New page: 光照构建
+[2024.09.26-12.33.28:315][158]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.09.26-12.33.28:319][158]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.09.26-12.33.28:321][158]LogWorld: UWorld::CleanupWorld for level_01, bSessionEnded=true, bCleanupResources=true
+[2024.09.26-12.33.28:321][158]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.26-12.33.28:333][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.09.26-12.33.28:341][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.09.26-12.33.28:355][158]LogAudio: Display: Audio Device (ID: 1) registered with world 'level_01'.
+[2024.09.26-12.33.28:355][158]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.09.26-12.33.28:355][158]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.09.26-12.33.28:355][158]LogAIModule: Creating AISystem for world level_01
+[2024.09.26-12.33.28:380][158]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.09.26-12.33.28:389][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.09.26-12.33.28:393][158]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.09.26-12.33.28:393][158]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.055毫秒。
+[2024.09.26-12.33.40:983][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.09.26-12.33.42:077][905]LogSlate: Window '保存内容' being destroyed
+[2024.09.26-12.33.42:086][905]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.26-12.33.42:140][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.09.26-12.33.42:163][905]LogSavePackage: Moving output files for package: /Game/Level_map/Level_01/level_01
+[2024.09.26-12.33.42:163][905]LogSavePackage: Moving '../../../../Game_Project/Formal_Project/Serious_game/Saved/level_01996165814A25896CE42F49BC00A82221.tmp' to '../../../../Game_Project/Formal_Project/Serious_game/Content/Level_map/Level_01/level_01.umap'
+[2024.09.26-12.33.42:169][905]LogFileHelpers: Saving map 'level_01' took 0.047
+[2024.09.26-12.33.42:177][905]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 515 ms)
+[2024.09.26-12.33.42:179][905]AssetCheck: New page: 资产保存：level_01
+[2024.09.26-12.33.42:179][905]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/Level_map/Level_01/level_01.level_01

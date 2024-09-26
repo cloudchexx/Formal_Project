@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"D:\\Github\\Game\\Formal_Project\\Serious_game\\Intermediate\\Source\\Serious_game.Build.cs",
+		"D:\\Github\\Game\\Formal_Project\\Serious_game\\Intermediate\\Source\\Serious_game.Target.cs",
+		"D:\\Github\\Game\\Formal_Project\\Serious_game\\Intermediate\\Source\\Serious_gameClient.Target.cs",
+		"D:\\Github\\Game\\Formal_Project\\Serious_game\\Intermediate\\Source\\Serious_gameEditor.Target.cs",
+		"D:\\Github\\Game\\Formal_Project\\Serious_game\\Intermediate\\Source\\Serious_gameServer.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
